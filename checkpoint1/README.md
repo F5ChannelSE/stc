@@ -1,4 +1,4 @@
-# Checkpoint1 Challenge
+# Checkpoint 1 Challenge
 
 ## Recording
 
