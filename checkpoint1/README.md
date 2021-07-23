@@ -19,7 +19,9 @@ Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
 ## HashiCorp
 
-Watch:  The Cloud Operating Model: DevOps, Security, and Networking Challenges & Solutions https://www.youtube.com/watch?v=z_Hk8NKzNi0
+Watch:  The Cloud Operating Model: DevOps, Security, and Networking Challenges & Solutions 
+
+https://www.youtube.com/watch?v=z_Hk8NKzNi0
 
 Question:  When a Client Authenticates through Vault, what is given back to the Client?
 
