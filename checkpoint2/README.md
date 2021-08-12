@@ -8,7 +8,7 @@ SmokeTheCompetition Checkpoint 2 PPT (https://github.com/F5ChannelSE/stc/blob/ma
 
 Watch F5 Demo Video (https://www.youtube.com/watch?v=Eu6jZ8XDGsE)
 
-Question – By using Terraform we were able to increase OWASP Compliance from a 2/10 to  ?/10 by simply applying an updated waf policy.
+Question – By using Terraform to apply an updated WAF policy, we were able to increase OWASP Compliance from a 2/10 to a X/10?  What is X?
 
 Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
