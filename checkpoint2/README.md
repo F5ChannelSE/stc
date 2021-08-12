@@ -6,7 +6,7 @@ SmokeTheCompetitionCP2.pdf
 
 ## F5
 
-Watch F5 Demo video [Video] (https://www.youtube.com/watch?v=Eu6jZ8XDGsE)
+Watch F5 Demo Video (https://www.youtube.com/watch?v=Eu6jZ8XDGsE)
 
 Question – By using Terraform we were able to increase OWASP Compliance from a 2/10 to  ?/10 by simply applying an updated waf policy.
 
@@ -14,7 +14,7 @@ Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
 ## HashiCorp
 
-Watch the video for the Load Balancing with F5 and Consul [Video] (https://learn.hashicorp.com/tutorials/consul/load-balancing-f5) webinar/learn activity (optionally do the learn activity)
+Watch the video for the Load Balancing with F5 and Consul (https://learn.hashicorp.com/tutorials/consul/load-balancing-f5) webinar/learn activity (optionally do the learning activity)
        
 
 Question:  What is an easy CLI command to look at the Consul Logs?
