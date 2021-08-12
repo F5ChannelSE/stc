@@ -2,7 +2,7 @@
 
 ## Presentation
 
-SmokeTheCompetitionCP2.pdf
+SmokeTheCompetition Checkpoint 2 PPT 
 
 ## F5
 
