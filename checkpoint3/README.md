@@ -18,7 +18,7 @@ Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
 ## HashiCorp
 
-Watch:  [Dynamic Load Balancing with Consul and Nginx Plus]https://www.hashicorp.com/resources/dynamic-load-balancing-with-consul-and-nginx-plus 
+Watch:  [Dynamic Load Balancing with Consul and Nginx Plus](https://www.hashicorp.com/resources/dynamic-load-balancing-with-consul-and-nginx-plus) 
 
 Question:  What did James actually forget to do?
 
