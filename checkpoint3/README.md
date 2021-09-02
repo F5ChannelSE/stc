@@ -10,7 +10,7 @@ https://tinyurl.com/2j66wt4r Passcode: #d&Z$s=7
 
 ## F5
 
-Read or watch the video at the end. https://devcentral.f5.com/s/articles/Pushing-Updates-to-BIG-IP-w-Consul-Terraform-Sync?tab=series&page=1
+Read the article or watch the video at the end. [DevCentral](https://devcentral.f5.com/s/articles/Pushing-Updates-to-BIG-IP-w-Consul-Terraform-Sync?tab=series&page=1)
 
 Question – How many pool members was Eric able to quickly scale up to at the end of the video using Consul Terraform Sync?
 
