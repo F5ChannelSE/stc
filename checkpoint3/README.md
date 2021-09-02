@@ -1,8 +1,8 @@
-# Checkpoint 1 Challenge
+# Checkpoint 3 Challenge
 
 ## Recording
 
-https://tinyurl.com/hex5bmct Passcode: 1LV=b313
+https://tinyurl.com/2j66wt4r Passcode: #d&Z$s=7
 
 ## Presentation
 
@@ -11,18 +11,18 @@ https://tinyurl.com/hex5bmct Passcode: 1LV=b313
 
 ## F5
 
-Download F5 SE All Stars [SE_All_Stars2.pdf](https://github.com/F5ChannelSE/stc/files/6865684/SE_All_Stars2.pdf) and answer the following question. 
+Read or watch the video at the end. https://devcentral.f5.com/s/articles/Pushing-Updates-to-BIG-IP-w-Consul-Terraform-Sync?tab=series&page=1
 
-Question – How much money do you earn for demoing a PIO registered AWAF, NGINX or Shape meeting as a “Starter”?
+Question – How many pool members was Eric to scale up to at the end of the video using Consul Terraform Sync?
 
 Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
 ## HashiCorp
 
-Watch:  The Cloud Operating Model: DevOps, Security, and Networking Challenges & Solutions 
+Watch:  Dynamic Load Balancing with Consul and Nginx Plus 
 
-https://www.youtube.com/watch?v=z_Hk8NKzNi0
+https://www.hashicorp.com/resources/dynamic-load-balancing-with-consul-and-nginx-plus
 
-Question:  When a Client Authenticates through Vault, what is given back to the Client?
+Question:  Question:  What did James actually forget to do?
 
 When completed email t.byerly@f5.com and l.levinski@f5.com the answer.
