@@ -6,7 +6,7 @@ https://tinyurl.com/2j66wt4r Passcode: #d&Z$s=7
 
 ## Presentation
 
-SmokeTheCompetitionCP3.pdf(https://github.com/F5ChannelSE/stc/blob/main/SmokeTheCompetitionCP3.pdf)
+[SmokeTheCompetitionCP3.pdf](https://github.com/F5ChannelSE/stc/blob/main/SmokeTheCompetitionCP3.pdf)
 
 ## F5
 
