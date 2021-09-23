@@ -12,10 +12,8 @@ https://tinyurl.com/5xdpwduy Passcode: aixFFW#9
 
 Task – [Download Shape POC Incentive](https://partnercentral.f5.com/content/1368324)
 
-Question – How much money can a SE earn for each qualified customer Shape POC?
+Question: How much money can a SE earn for each qualified customer Shape POC?
 
-
-Email t.byerly@f5.com and l.levinski@f5.com with your answer.
 
 ## HashiCorp
 
